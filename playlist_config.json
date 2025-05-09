@@ -1,0 +1,12 @@
+{
+  "playlists": [
+    { "id": "PLb4COMxyrqGFZGPLFC42t5LECbwcrL2Qm", "category": "technology" },
+    { "id": "PLb4COMxyrqGHbDyzstOKKT-vAm3YkHcWd", "category": "finance" }
+  ],
+  "settings": {
+    "min_duration_seconds": 600,
+    "min_videos_for_processing": 2,
+    "testing_delay_seconds": 15,
+    "production_delay_seconds": 65
+  }
+}

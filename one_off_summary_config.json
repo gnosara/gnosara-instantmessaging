@@ -1,0 +1,22 @@
+{
+  "playlists": [
+    "PLM4u6XbiXf5pZQmB6cadImO1M7xVYbZ_M",
+    "PLsomeotherplaylistID",
+    "PLthirdplaylistID"
+  ],
+  "settings": {
+    "target_matching_videos": 10,
+    "max_videos_to_check": 100,
+    "match_criteria": {
+      "title_contains": "AI",
+      "tags_contain": "",
+      "min_duration_seconds": 600,
+      "max_age_days": 365
+    },
+    "processing": {
+      "batch_size": 2,
+      "batch_delay_seconds": 65,
+      "writing_style": "casual"
+    }
+  }
+}

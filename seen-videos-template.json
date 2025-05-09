@@ -1,0 +1,39 @@
+{
+  "done": {
+    "dQw4w9WgXcQ": {
+      "title": "The Future of AI: Opportunities and Challenges",
+      "channel": "Tech Insights Podcast",
+      "processed_at": "2025-04-24T12:45:30.000Z",
+      "status": "completed",
+      "tags": [
+        "#AI",
+        "#Technology",
+        "#Podcast",
+        "#Innovation",
+        "#Future"
+      ]
+    },
+    "xvFZjo5PgG0": {
+      "title": "Meditation Techniques for Modern Life",
+      "channel": "Mindfulness Masters",
+      "processed_at": "2025-04-24T13:15:45.000Z",
+      "status": "posted",
+      "tags": [
+        "#Meditation",
+        "#Mindfulness",
+        "#Wellness",
+        "#Podcast",
+        "#Health"
+      ],
+      "posted_to": ["twitter", "facebook"],
+      "posted_at": "2025-04-24T14:30:00.000Z"
+    },
+    "jNQXAC9IVRw": {
+      "title": "Investment Strategies for Uncertain Times",
+      "channel": "Finance Forum",
+      "processed_at": "2025-04-24T10:20:15.000Z",
+      "status": "failed",
+      "error": "Transcript validation failed"
+    }
+  }
+}
