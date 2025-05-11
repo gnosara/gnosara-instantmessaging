@@ -1,0 +1,16 @@
+name: Gnosara Auto Summary Trigger
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Every 30 minutes UTC
+  workflow_dispatch:        # Optional: allows manual run from GitHub
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger /full-cycle endpoint on Render
+        run: |
+          curl -s https://gnosara-instantmessaging.onrender.com/full-cycle
+
