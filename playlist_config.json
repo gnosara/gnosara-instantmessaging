@@ -1,7 +1,19 @@
+
+
 {
   "playlists": [
-    { "id": "PLb4COMxyrqGFZGPLFC42t5LECbwcrL2Qm", "category": "technology" },
-    { "id": "PLb4COMxyrqGHbDyzstOKKT-vAm3YkHcWd", "category": "finance" }
+    { "id": "PL8qcvQ7Byc3N3CAcv4tVXeP5DoAG1zNek", "category": "bilyeu" },
+    { "id": "PL22egh3ok4cP0T7UZRmP6TMLErZYWMN-l", "category": "doac" },
+    { "id": "PLbuNduy9iZu__hWPQWRyhZ2XpuCapH3nL", "category": "next-level-soul" },
+    { "id": "PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4", "category": "lex-fridman" },
+    { "id": "PLhW2xUEb-B-Y92Q1wVWw6TyMNr4idD-yv", "category": "mel-robbins" },
+    { "id": "PLOGi5-fAu8bEsgXDEOxRm73J8FRLtBfxU", "category": "ted" },
+    { "id": "PL22J3VaeABQAbEeT04p5VmAOBmqw2kmxj", "category": "jordan-peterson" },
+    { "id": "PLw36M63mB0iCzCRRXL_xZB5dFfFvQX37I", "category": "coin-stories" },
+    { "id": "PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ", "category": "a16z" },
+    { "id": "PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW", "category": "huberman-lab" },
+    { "id": "UUXMB8OiiSnq2B4xLgUtTYhw", "category": "timothy-ronald" },
+    { "id": "PLuu6fDad2eJyWPm9dQfuorm2uuYHBZDCB", "category": "tim-ferriss" }
   ],
   "settings": {
     "min_duration_seconds": 600,
